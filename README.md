@@ -1,4 +1,4 @@
-**Cache Simulator**
+## Cache Simulator
 
 This is a simulation of CPU cache memory also know as cache which is a chip-based feature of a computer that lets the user access information more quickly than if they were to access it from the computer’s main hard drive.
 
