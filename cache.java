@@ -6,7 +6,7 @@ import java.util.Objects;
 import java.io.File;
 
 
-public class lab5 {
+public class cache {
 
     private static final ArrayList<String> binaryAddresses = new ArrayList<>();
     private static final String[] cache1 = new String[512];
